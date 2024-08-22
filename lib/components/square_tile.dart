@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-class SqureTile extends StatelessWidget {
+class SquareTile extends StatelessWidget {
   final String imagePath;
-  const SqureTile({super.key,required this.imagePath});
+  const SquareTile({super.key,required this.imagePath});
 
   @override
   Widget build(BuildContext context) {
